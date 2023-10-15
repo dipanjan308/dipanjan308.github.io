@@ -18,5 +18,4 @@ Hi, I'm Dipanjan Mandal, a Post-doctoral research fellow at University of Warwic
 1. *The columnar-disorder phase boundary in a mixture of hard squares and dimers*, Dipanjan Mandal, R. Rajesh, [Phys. Rev. E 96, 012140 (2017)](https://doi.org/10.1103/PhysRevE.96.012140).
 1. *Estimating the Critical Parameters of the Hard Square Lattice Gas Model*, Dipanjan Mandal, Trisha Nath, R. Rajesh, [J. Stat. Mech. 2017, 043201 (2017)](https://iopscience.iop.org/article/10.1088/1742-5468/aa650e/meta).
 
-#Photo
 ![Octocat](dipanjan_photo.jpg)
