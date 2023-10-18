@@ -5,7 +5,7 @@ Post Doctoral Research Associate, Department of Physics, University of Warwick, 
 
 Post Doctoral Fellow, Tata Institite of Fundamental Research, Hyderabad, India (April-October, 2019).
 
-Ph.D. in Statistical physics, Institiute of Mathematical Sciences, Chennai, India (2014-2019), Ph.D thesis title "Entropy driven phase transitions in hard core lattice gases".
+Ph.D. in Statistical Physics, Institiute of Mathematical Sciences, Chennai, India (2014-2019), Ph.D thesis title "Entropy driven phase transitions in hard core lattice gases".
 
 M. Sc. in theoretical Physics, Institiute of Mathematical Sciences, Chennai, India (2012-2014).
 
