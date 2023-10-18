@@ -1,7 +1,17 @@
 Hi, I’m Dipanja Mandal, a post-doctoral research fellow at University of Warwick, United Kingdom. I joined Warwick in November 2019, just before the beginning of the pandemic. My research area is broadly in Statistical Physics. At Warwick, I work with Prof. David Quigley, studying the nucleation properties of the lattice-systems in the presence of static/dynamic impurities. During my PhD, at Institute of Mathematical Sciences, India, I studied the entropy driven phase transitions and critical properties of the system hard particles with different geometrical shapes on lattice, with the supervision of Prof. R. Rajesh. Immediately after my PhD, I was a post-doctoral fellow at Tata Institute of Fundamental Research, Hyderabad in 2019, for a brief period, working with Prof. Kabir Ramola on active random walk.
 
-## Publications
+## Education & Research Experience
+Post Doctoral Research Associate, Department of Physics, University of Warwick, Coventry, United Kingdom (2019-present). 
 
+Post Doctoral Fellow, Tata Institite of Fundamental Research, Hyderabad, India (April-October, 2019).
+
+Ph.D. in Statistical physics, Institiute of Mathematical Sciences, Chennai, India (2014-2019), Ph.D thesis title "Entropy driven phase transitions in hard core lattice gases".
+
+M. Sc. in theoretical Physics, Institiute of Mathematical Sciences, Chennai, India (2012-2014).
+
+B. Sc. in Physics Honours, Ramakrishnamission Vidyamandira, Howrah, India, affiliated to the University of Calcutta (2009-2012).
+
+## Publications
 1. *Phases of the hard-plate lattice gas on a three-dimensional cubic lattice*, Dipanjan Mandal, Geet Rakala, Kedar Damle, Deepak Dhar, R. Rajesh, [Phys. Rev. E 107, 064136 (2023)](https://doi.org/10.1103/PhysRevE.107.064136).
 1. *Spontaneous layering and power-law order in the three-dimensional fully-packed hard-plate lattice gas*, Geet Rakala, Dipanjan Mandal, S. Biswas, Kedar Damle, Deepak Dhar, R. Rajesh, [Phys. Rev. E 107, 064137 (2023)](https://doi.org/10.1103/PhysRevE.107.064137).
 1. *Kinetic control of competing nuclei in a dimer lattice-gas model*, Dipanjan Mandal, David Quigley, [J. Chem. Phys. 157, 214501 (2022)](https://doi.org/10.1063/5.0120483).
