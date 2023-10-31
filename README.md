@@ -11,6 +11,9 @@ M. Sc. in theoretical Physics, Institiute of Mathematical Sciences, Chennai, Ind
 
 B. Sc. in Physics Honours, Ramakrishnamission Vidyamandira, Howrah, India, affiliated to the University of Calcutta (2009-2012).
 
+## Research Interest
+Statistical Mechanics, Monte Carlo, Hard core lattice-gas, Nucleation, Percolation, Active random walk.
+
 ## Publications
 1. *Phases of the hard-plate lattice gas on a three-dimensional cubic lattice*, Dipanjan Mandal, Geet Rakala, Kedar Damle, Deepak Dhar, R. Rajesh, [Phys. Rev. E 107, 064136 (2023)](https://doi.org/10.1103/PhysRevE.107.064136).
 1. *Spontaneous layering and power-law order in the three-dimensional fully-packed hard-plate lattice gas*, Geet Rakala, Dipanjan Mandal, S. Biswas, Kedar Damle, Deepak Dhar, R. Rajesh, [Phys. Rev. E 107, 064137 (2023)](https://doi.org/10.1103/PhysRevE.107.064137).
