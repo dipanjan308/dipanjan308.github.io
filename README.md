@@ -14,7 +14,7 @@ B. Sc. in Physics Honours, Ramakrishnamission Vidyamandira, Howrah, India, affil
 ## Research Interest
 Statistical Mechanics, Monte Carlo, Hard core lattice-gas, Nucleation, Percolation, Active random walk.
 
-## Publications
+## Publication
 1. *Phases of the hard-plate lattice gas on a three-dimensional cubic lattice*, Dipanjan Mandal, Geet Rakala, Kedar Damle, Deepak Dhar, R. Rajesh, [Phys. Rev. E 107, 064136 (2023)](https://doi.org/10.1103/PhysRevE.107.064136).
 1. *Spontaneous layering and power-law order in the three-dimensional fully-packed hard-plate lattice gas*, Geet Rakala, Dipanjan Mandal, S. Biswas, Kedar Damle, Deepak Dhar, R. Rajesh, [Phys. Rev. E 107, 064137 (2023)](https://doi.org/10.1103/PhysRevE.107.064137).
 1. *Kinetic control of competing nuclei in a dimer lattice-gas model*, Dipanjan Mandal, David Quigley, [J. Chem. Phys. 157, 214501 (2022)](https://doi.org/10.1063/5.0120483).
@@ -32,9 +32,13 @@ Statistical Mechanics, Monte Carlo, Hard core lattice-gas, Nucleation, Percolati
 1. *Estimating the Critical Parameters of the Hard Square Lattice Gas Model*, Dipanjan Mandal, Trisha Nath, R. Rajesh, [J. Stat. Mech. 2017, 043201 (2017)](https://iopscience.iop.org/article/10.1088/1742-5468/aa650e/meta).
 
 ## Link
-
 [Google Scholar](https://scholar.google.com/citations?user=GdKlKm0AAAAJ&hl=en) 
 
 [ORCiD](https://orcid.org/0000-0002-8508-9619)
+
+## Contact
+dipkar.308[at]gmail.com
+
+dipanjan.mandal[at]warwick.ac.uk
 
 ![Octocat](dipanjan_photo.jpg)
