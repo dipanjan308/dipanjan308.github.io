@@ -34,6 +34,8 @@ Statistical Mechanics, Monte Carlo, Hard core lattice-gas, Nucleation, Percolati
 ## Link
 [Google Scholar](https://scholar.google.com/citations?user=GdKlKm0AAAAJ&hl=en) 
 
+[GitHub](https://github.com/dipanjan308)
+
 [ORCiD](https://orcid.org/0000-0002-8508-9619)
 
 ## Contact
