@@ -38,11 +38,12 @@ Statistical Mechanics, Monte Carlo, Hard core lattice-gas, Nucleation, Percolati
 
 [ORCiD](https://orcid.org/0000-0002-8508-9619)
 
-[Resume](https://github.com/dipanjan308/dipanjan308.github.io/files/13231345/cv_dipanjan.pdf)
-
 ## Contact
 dipkar.308[at]gmail.com
 
 dipanjan.mandal[at]warwick.ac.uk
+
+## Curriculam Vitae
+[Resume](https://github.com/dipanjan308/dipanjan308.github.io/files/13231345/cv_dipanjan.pdf)
 
 ![Octocat](dipanjan_photo.jpg)
