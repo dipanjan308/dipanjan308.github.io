@@ -5,14 +5,14 @@ Post Doctoral Research Associate, Department of Physics, University of Warwick, 
 
 Post Doctoral Fellow, Tata Institite of Fundamental Research, Hyderabad, India (April-October, 2019).
 
-Ph.D. in Statistical Physics, Institiute of Mathematical Sciences, Chennai, India (2014-2019), Ph.D thesis title "Entropy driven phase transitions in hard core lattice gases".
+Ph.D. in Theoretical Physics, Institiute of Mathematical Sciences, Chennai, India (2014-2019), Ph.D. thesis title "Entropy driven phase transitions in hard core lattice gases".
 
 M. Sc. in theoretical Physics, Institiute of Mathematical Sciences, Chennai, India (2012-2014).
 
 B. Sc. in Physics Honours, Ramakrishnamission Vidyamandira, Howrah, India, affiliated to the University of Calcutta (2009-2012).
 
-## Research Interest
-Statistical Mechanics, Monte Carlo, Hard core lattice-gas, Nucleation, Percolation, Active random walk.
+## Research Area
+Statistical Mechanics: Monte Carlo simulation, Hard core lattice-gas model, Nucleation in simple model, Jamming and Percolation transition, Active random walk.
 
 [Research interest](https://github.com/dipanjan308/dipanjan308.github.io/files/13261230/research_interest_dipanjan.pdf)
 
@@ -48,6 +48,7 @@ dipkar.308[at]gmail.com
 dipanjan.mandal[at]warwick.ac.uk
 
 ## Curriculam Vitae
-[Download Resume](https://github.com/dipanjan308/dipanjan308.github.io/files/13261246/cv_dipanjan.pdf)
+[Download Resume](https://github.com/dipanjan308/dipanjan308.github.io/files/13300390/cv_dipanjan.pdf)
+
 
 ![Octocat](dipanjan_photo.jpg)
