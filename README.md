@@ -12,9 +12,10 @@ M. Sc. in theoretical Physics, Institiute of Mathematical Sciences, Chennai, Ind
 B. Sc. in Physics Honours, Ramakrishnamission Vidyamandira, Howrah, India, affiliated to the University of Calcutta (2009-2012).
 
 ## Research Area
-Statistical Mechanics: Monte Carlo simulation, Hard core lattice-gas model, Nucleation in simple model, Jamming and Percolation transition, Active random walk.
+Statistical Mechanics: Monte Carlo simulations, Hard core lattice-gas models, Nucleation in simple models, Jamming and Percolation transitions, Active random walk.
 
-[Research interest](https://github.com/dipanjan308/dipanjan308.github.io/files/13261230/research_interest_dipanjan.pdf)
+[Research interest](https://github.com/dipanjan308/dipanjan308.github.io/files/13333776/research_interest_dipanjan.pdf)
+
 
 ## Publication
 1. *Phases of the hard-plate lattice gas on a three-dimensional cubic lattice*, Dipanjan Mandal, Geet Rakala, Kedar Damle, Deepak Dhar, R. Rajesh, [Phys. Rev. E 107, 064136 (2023)](https://doi.org/10.1103/PhysRevE.107.064136).
