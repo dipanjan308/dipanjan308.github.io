@@ -47,8 +47,6 @@ Statistical Mechanics: Monte Carlo simulations, Hard core lattice-gas models, Nu
 ## Contact
 dipkar.308[at]gmail.com
 
-dipanjan.mandal[at]warwick.ac.uk
-
 ## Curriculam Vitae
 [Download Resume](https://github.com/dipanjan308/dipanjan308.github.io/files/13300477/cv_dipanjan.pdf)
 
