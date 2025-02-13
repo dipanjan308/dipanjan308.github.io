@@ -18,7 +18,8 @@ Statistical Mechanics: Monte Carlo simulations, Hard core lattice-gas models, Nu
 
 
 ## Publication
-1. *Mapping the influence of impurity interaction energy on nucleation in a lattice-gas model of solute precipitation*, Dipanjan Mandal, David Quigley, [Soft Matter](https://pubs.rsc.org/en/content/articlelanding/2024/sm/d4sm00815d).
+1. *Low temperature nucleation rate calculations using the N-Fold way*, Federico Ettori, Dipanjan Mandal, David Quigley, [arXiv:2412.19278](https://arxiv.org/abs/2412.19278).
+1. *Mapping the influence of impurity interaction energy on nucleation in a lattice-gas model of solute precipitation*, Dipanjan Mandal, David Quigley, [ Soft Matt. 20, 7174-7184, (2024)](https://pubs.rsc.org/en/content/articlelanding/2024/sm/d4sm00815d).
 1. *Phases of the hard-plate lattice gas on a three-dimensional cubic lattice*, Dipanjan Mandal, Geet Rakala, Kedar Damle, Deepak Dhar, R. Rajesh, [Phys. Rev. E 107, 064136 (2023)](https://doi.org/10.1103/PhysRevE.107.064136).
 1. *Spontaneous layering and power-law order in the three-dimensional fully-packed hard-plate lattice gas*, Geet Rakala, Dipanjan Mandal, S. Biswas, Kedar Damle, Deepak Dhar, R. Rajesh, [Phys. Rev. E 107, 064137 (2023)](https://doi.org/10.1103/PhysRevE.107.064137).
 1. *Kinetic control of competing nuclei in a dimer lattice-gas model*, Dipanjan Mandal, David Quigley, [J. Chem. Phys. 157, 214501 (2022)](https://doi.org/10.1063/5.0120483).
