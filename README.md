@@ -1,13 +1,15 @@
-Hi, I’m Dipanjan Mandal, a post-doctoral research fellow at [University of Warwick](https://warwick.ac.uk/fac/sci/physics/). I joined Warwick in November 2019. My research area is broadly in Statistical Physics. At Warwick, I work with [Prof. David Quigley](https://warwick.ac.uk/fac/sci/physics/staff/research/dquigley/), studying the nucleation properties of the lattice-systems in the presence of static/dynamic impurities. During my PhD, at [Institute of Mathematical Sciences](https://www.imsc.res.in/), India, I studied the entropy driven phase transitions and critical properties of the system hard particles with different geometrical shapes on lattice, under the supervision of [Prof. R. Rajesh](https://sites.google.com/view/rrajeshshomepage/home). Immediately after my PhD, I was a post-doctoral fellow at [Tata Institute of Fundamental Research](https://www.tifrh.res.in/), Hyderabad in 2019, for a brief period, working with [Prof. Kabir Ramola](https://www.tifrh.res.in/~kramola/) on active random walk.
+Hi, I’m Dipanjan Mandal, a post-doctoral fellow at Department of Physical and Chemical Sciences, [University of L'Aquila](https://www.dsfc.univaq.it/en/department), L'Aquila, Italy. I joined here in November 2024. Currently I am working on dynamical and equilibrium properties of different chemical systems using machine learend inter-atomic potentials with the supervision of [Prof. Carlo Pierleoni](https://www.aquila.infn.it/cpierleo/). Prior to this I was a post-doctoral research associate from 2019-2024 at Department of Physics, [University of Warwick](https://warwick.ac.uk/fac/sci/physics/), Coventry, UK. My research area is broadly in Statistical Physics. At Warwick, I worked with [Prof. David Quigley](https://warwick.ac.uk/fac/sci/physics/staff/research/dquigley/), where I studied the nucleation properties of simple lattice-gas models in the presence of static or dynamic impurities. We also explored different roles played by impurities at the time of droplet formation. These could be surfactant, bulk-stabilizer, nucleant or inert-spectator. During my PhD, at [The Institute of Mathematical Sciences](https://www.imsc.res.in/), India, I studied the entropy driven phase transitions and critical properties of the system hard particles with different geometrical shapes on lattice, under the supervision of [Prof. R. Rajesh](https://sites.google.com/view/rrajeshshomepage/home). Immediately after my PhD, I was a post-doctoral fellow at [Tata Institute of Fundamental Research](https://www.tifrh.res.in/), Hyderabad in 2019, working with [Prof. Kabir Ramola](https://www.tifrh.res.in/~kramola/) on active random walk.
 
 ## Education & Research Experience
-Post Doctoral Research Associate, Department of Physics, University of Warwick, Coventry, United Kingdom (2019-present). 
+Post Doctoral Fellow, Department of Physical and Chemical Sciences, University of L'Aquila, L'Aquila, Italy (2024-current)
+
+Post Doctoral Research Associate, Department of Physics, University of Warwick, Coventry, United Kingdom (2019-2024). 
 
 Post Doctoral Fellow, Tata Institite of Fundamental Research, Hyderabad, India (April-October, 2019).
 
-Ph.D. in Theoretical Physics, Institiute of Mathematical Sciences, Chennai, India (2014-2019), Ph.D. thesis title "Entropy driven phase transitions in hard core lattice gases".
+Ph.D. in Theoretical Physics, The Institiute of Mathematical Sciences, Chennai, India (2014-2019), Ph.D. thesis title "Entropy driven phase transitions in hard core lattice gases".
 
-M. Sc. in theoretical Physics, Institiute of Mathematical Sciences, Chennai, India (2012-2014).
+M. Sc. in theoretical Physics, The Institiute of Mathematical Sciences, Chennai, India (2012-2014).
 
 B. Sc. in Physics Honours, Ramakrishnamission Vidyamandira, Howrah, India, affiliated to the University of Calcutta (2009-2012).
 
@@ -18,7 +20,7 @@ Statistical Mechanics: Monte Carlo simulations, Hard core lattice-gas models, Nu
 
 
 ## Publication
-1. *Low temperature nucleation rate calculations using the N-Fold way*, Federico Ettori, Dipanjan Mandal, David Quigley, [arXiv:2412.19278](https://arxiv.org/abs/2412.19278).
+1. *Low temperature nucleation rate calculations using the N-Fold way*, Federico Ettori, Dipanjan Mandal, David Quigley, [J. Chem. Phys. 162, 124116 (2025)](https://doi.org/10.1063/5.0255066).
 1. *Mapping the influence of impurity interaction energy on nucleation in a lattice-gas model of solute precipitation*, Dipanjan Mandal, David Quigley, [ Soft Matt. 20, 7174-7184, (2024)](https://pubs.rsc.org/en/content/articlelanding/2024/sm/d4sm00815d).
 1. *Phases of the hard-plate lattice gas on a three-dimensional cubic lattice*, Dipanjan Mandal, Geet Rakala, Kedar Damle, Deepak Dhar, R. Rajesh, [Phys. Rev. E 107, 064136 (2023)](https://doi.org/10.1103/PhysRevE.107.064136).
 1. *Spontaneous layering and power-law order in the three-dimensional fully-packed hard-plate lattice gas*, Geet Rakala, Dipanjan Mandal, S. Biswas, Kedar Damle, Deepak Dhar, R. Rajesh, [Phys. Rev. E 107, 064137 (2023)](https://doi.org/10.1103/PhysRevE.107.064137).
