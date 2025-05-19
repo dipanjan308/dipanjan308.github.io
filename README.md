@@ -14,7 +14,7 @@ M. Sc. in theoretical Physics, The Institiute of Mathematical Sciences, Chennai,
 B. Sc. in Physics Honours, Ramakrishnamission Vidyamandira, Howrah, India, affiliated to the University of Calcutta (2009-2012).
 
 ## Research Area
-Statistical Mechanics: Monte Carlo simulations, Hard core lattice-gas models, Nucleation in simple models, Jamming and Percolation transitions, Active random walk.
+Molecular Dynamics with machine learned inter-atomic potentials, Statistical Mechanics: Monte Carlo simulations, Hard core lattice-gas models, Nucleation in simple models, Jamming and Percolation transitions, Active random walk.
 
 [Research interest](https://github.com/dipanjan308/dipanjan308.github.io/files/13333776/research_interest_dipanjan.pdf)
 
